@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Piseth+Sambo;Full+Stack+Developer;Vue.js+•+Next.js+•+FastAPI;Flutter+Mobile+Developer;Building+Modern+Digital+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Piseth+Sambo;Full+Stack+Developer;Vue.js+•+Next.js+•+FastAPI;Flutter+Mobile+Developer;UI%2FUX+Designer+with+Figma;Building+Modern+Digital+Experiences" alt="Typing SVG" />
 
 <br><br>
 
 <a href="mailto:pisethsambo763@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/chhengkhim">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
@@ -17,13 +18,14 @@
 
 # 👨‍💻 About Me
 
-Full Stack Developer passionate about building scalable web applications, powerful backend services, and cross-platform mobile experiences.
+Full Stack Developer & UI/UX enthusiast focused on building modern, scalable web and mobile applications with great user experience and clean design.
 
 - 🚀 Modern Web Development
 - ⚡ RESTful API Development
-- 📱 Cross-Platform Mobile Apps
+- 📱 Cross-Platform Mobile Apps (Flutter)
+- 🎨 UI/UX Design with Figma
+- 🌍 WordPress Development
 - 🎯 Clean Architecture & Performance Optimization
-- 🌍 Open to Remote Opportunities
 
 ---
 
@@ -32,13 +34,13 @@ Full Stack Developer passionate about building scalable web applications, powerf
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts,js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts,js,bootstrap,tailwind,html,css" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
 </p>
 
 ### Mobile
@@ -51,6 +53,12 @@ Full Stack Developer passionate about building scalable web applications, powerf
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### CMS & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,figma" />
 </p>
 
 ### Tools & DevOps
@@ -84,6 +92,7 @@ Full Stack Developer passionate about building scalable web applications, powerf
   <a href="mailto:pisethsambo763@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
   <a href="https://github.com/chhengkhim">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
@@ -93,7 +102,7 @@ Full Stack Developer passionate about building scalable web applications, powerf
 
 <div align="center">
 
-### ⚡ Building modern web applications, APIs, and mobile experiences.
+### ⚡ Building modern web, mobile, and WordPress solutions with clean UI and strong backend systems.
 
 <img src="https://komarev.com/ghpvc/?username=chhengkhim&label=Profile%20Views&color=0e75b6&style=flat" />
 
