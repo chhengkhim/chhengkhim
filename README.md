@@ -1,71 +1,71 @@
 <div align="center">
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&background=08080800&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+Chheng+Khim's+Github;%3C+full+stack+%C2%B7+mobile+%C2%B7+ui%2Fux+%2F%3E" alt="banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=FFFFFF&background=05050500&center=true&vCenter=true&width=680&height=70&lines=Pisethsambo+Phok;%40chhengkhim" alt="name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1500&color=444444&background=05050500&center=true&vCenter=true&width=680&height=30&lines=full+stack+%C2%B7+mobile+%C2%B7+ui%2Fux+%C2%B7+based+in+cambodia+%C2%B7+open+to+work" alt="bio" />
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/GMAIL-111111?style=flat-square&logo=gmail&logoColor=555555)](mailto:pisethsambo763@gmail.com)&ensp;[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=555555)](https://github.com/chhengkhim)&ensp;[![Figma](https://img.shields.io/badge/FIGMA-111111?style=flat-square&logo=figma&logoColor=555555)](https://figma.com)&ensp;![Open](https://img.shields.io/badge/%E2%97%8F%20open%20to%20work-111111?style=flat-square)&ensp;![Views](https://komarev.com/ghpvc/?username=chhengkhim&style=flat-square&color=111111&label=VIEWS)
+[![gmail](https://img.shields.io/badge/gmail-050505?style=flat-square&logo=gmail&logoColor=333333)](mailto:pisethsambo763@gmail.com)&ensp;[![github](https://img.shields.io/badge/github-050505?style=flat-square&logo=github&logoColor=333333)](https://github.com/chhengkhim)&ensp;[![figma](https://img.shields.io/badge/figma-050505?style=flat-square&logo=figma&logoColor=333333)](https://figma.com)&ensp;![status](https://img.shields.io/badge/%E2%97%8F_available-050505?style=flat-square&logoColor=white&labelColor=050505&color=050505)&ensp;![views](https://komarev.com/ghpvc/?username=chhengkhim&style=flat-square&color=050505&label=views&labelColor=111111)
 
 </div>
 
+<br/>
+
 ---
-
-### 👤 about me
-
-<img align="right" width="130" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
-
-Hello! I'm **Pisethsambo Phok**, a Full Stack Developer & UI/UX Designer.
-I love building clean, modern web and mobile experiences.
 
 ```
-→ Studying Computer Science
-→ Vue.js · Next.js · FastAPI · Flutter
-→ UI/UX with Figma
-→ Freelance & collab friendly
+full stack  ·  mobile  ·  ui/ux
+vue · next · fastapi · flutter · figma
+cambodia  ·  open to work
 ```
 
-<br clear="right"/>
-
 ---
 
-### 🛠 technologies
+### — statistics
 
 <div align="center">
 
-![vue](https://img.shields.io/badge/vue.js-111111?style=flat-square&logo=vuedotjs&logoColor=555555)&ensp;![next](https://img.shields.io/badge/next.js-111111?style=flat-square&logo=nextdotjs&logoColor=555555)&ensp;![react](https://img.shields.io/badge/react-111111?style=flat-square&logo=react&logoColor=555555)&ensp;![ts](https://img.shields.io/badge/typescript-111111?style=flat-square&logo=typescript&logoColor=555555)&ensp;![tw](https://img.shields.io/badge/tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=555555)&ensp;![bs](https://img.shields.io/badge/bootstrap-111111?style=flat-square&logo=bootstrap&logoColor=555555)
-
-![py](https://img.shields.io/badge/python-111111?style=flat-square&logo=python&logoColor=555555)&ensp;![fapi](https://img.shields.io/badge/fastapi-111111?style=flat-square&logo=fastapi&logoColor=555555)&ensp;![node](https://img.shields.io/badge/node.js-111111?style=flat-square&logo=nodedotjs&logoColor=555555)&ensp;![flutter](https://img.shields.io/badge/flutter-111111?style=flat-square&logo=flutter&logoColor=555555)&ensp;![dart](https://img.shields.io/badge/dart-111111?style=flat-square&logo=dart&logoColor=555555)
-
-![pg](https://img.shields.io/badge/postgresql-111111?style=flat-square&logo=postgresql&logoColor=555555)&ensp;![mysql](https://img.shields.io/badge/mysql-111111?style=flat-square&logo=mysql&logoColor=555555)&ensp;![docker](https://img.shields.io/badge/docker-111111?style=flat-square&logo=docker&logoColor=555555)&ensp;![git](https://img.shields.io/badge/git-111111?style=flat-square&logo=git&logoColor=555555)&ensp;![linux](https://img.shields.io/badge/linux-111111?style=flat-square&logo=linux&logoColor=555555)&ensp;![figma](https://img.shields.io/badge/figma-111111?style=flat-square&logo=figma&logoColor=555555)&ensp;![wp](https://img.shields.io/badge/wordpress-111111?style=flat-square&logo=wordpress&logoColor=555555)
+<img height="148" src="https://github-readme-stats.vercel.app/api?username=chhengkhim&show_icons=true&hide_border=true&bg_color=080808&title_color=333333&icon_color=2a2a2a&text_color=2a2a2a&ring_color=1e1e1e&include_all_commits=true&count_private=true&hide_title=false"/>&ensp;<img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhengkhim&layout=compact&hide_border=true&bg_color=080808&title_color=333333&text_color=2a2a2a&langs_count=5"/>
 
 </div>
 
 ---
 
-### 📊 statistics
+### — streak
 
 <div align="center">
 
-<img height="152" src="https://github-readme-stats.vercel.app/api?username=chhengkhim&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=555555&icon_color=444444&text_color=444444&ring_color=333333&include_all_commits=true&count_private=true"/>&ensp;<img height="152" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhengkhim&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=555555&text_color=444444&langs_count=6"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=chhengkhim&hide_border=true&background=0d0d0d&ring=444444&fire=555555&currStreakLabel=555555&sideLabels=444444&dates=333333&stroke=1a1a1a&currStreakNum=888888&sideNums=666666"/>
+<img src="https://streak-stats.demolab.com?user=chhengkhim&hide_border=true&background=080808&ring=222222&fire=333333&currStreakLabel=444444&sideLabels=2a2a2a&dates=1e1e1e&stroke=111111&currStreakNum=888888&sideNums=555555"/>
 
 </div>
 
 ---
 
-### 📈 contribution graph
+### — technologies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chhengkhim&bg_color=0d0d0d&color=444444&line=2a2a2a&point=555555&area=true&area_color=1a1a1a&hide_border=true&custom_title=contribution%20graph"/>
+![vue](https://img.shields.io/badge/vue.js-080808?style=flat-square&logo=vuedotjs&logoColor=2a2a2a)&ensp;![next](https://img.shields.io/badge/next.js-080808?style=flat-square&logo=nextdotjs&logoColor=2a2a2a)&ensp;![react](https://img.shields.io/badge/react-080808?style=flat-square&logo=react&logoColor=2a2a2a)&ensp;![ts](https://img.shields.io/badge/typescript-080808?style=flat-square&logo=typescript&logoColor=2a2a2a)&ensp;![tw](https://img.shields.io/badge/tailwind-080808?style=flat-square&logo=tailwindcss&logoColor=2a2a2a)&ensp;![bs](https://img.shields.io/badge/bootstrap-080808?style=flat-square&logo=bootstrap&logoColor=2a2a2a)
+
+![py](https://img.shields.io/badge/python-080808?style=flat-square&logo=python&logoColor=2a2a2a)&ensp;![fapi](https://img.shields.io/badge/fastapi-080808?style=flat-square&logo=fastapi&logoColor=2a2a2a)&ensp;![node](https://img.shields.io/badge/node.js-080808?style=flat-square&logo=nodedotjs&logoColor=2a2a2a)&ensp;![flutter](https://img.shields.io/badge/flutter-080808?style=flat-square&logo=flutter&logoColor=2a2a2a)&ensp;![dart](https://img.shields.io/badge/dart-080808?style=flat-square&logo=dart&logoColor=2a2a2a)
+
+![pg](https://img.shields.io/badge/postgresql-080808?style=flat-square&logo=postgresql&logoColor=2a2a2a)&ensp;![mysql](https://img.shields.io/badge/mysql-080808?style=flat-square&logo=mysql&logoColor=2a2a2a)&ensp;![docker](https://img.shields.io/badge/docker-080808?style=flat-square&logo=docker&logoColor=2a2a2a)&ensp;![git](https://img.shields.io/badge/git-080808?style=flat-square&logo=git&logoColor=2a2a2a)&ensp;![linux](https://img.shields.io/badge/linux-080808?style=flat-square&logo=linux&logoColor=2a2a2a)&ensp;![figma](https://img.shields.io/badge/figma-080808?style=flat-square&logo=figma&logoColor=2a2a2a)&ensp;![wp](https://img.shields.io/badge/wordpress-080808?style=flat-square&logo=wordpress&logoColor=2a2a2a)
+
+</div>
+
+---
+
+### — contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chhengkhim&bg_color=080808&color=2a2a2a&line=1a1a1a&point=333333&area=true&area_color=111111&hide_border=true&custom_title=contribution+graph"/>
 
 </div>
 
 ---
 
 <div align="center">
-<sub>web · mobile · ui/ux · open to work</sub>
+<sub><code>web · mobile · ui/ux · open to work · cambodia</code></sub>
 </div>
