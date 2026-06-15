@@ -1,10 +1,17 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Chheng Khim — GitHub Profile</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet"/>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@300;400;500;600&display=swap');
 *{box-sizing:border-box;margin:0;padding:0}
-.wrap{background:#080808;color:#e0e0e0;font-family:'Inter',sans-serif;padding:0;min-height:100vh;overflow:hidden}
+body{background:#080808;color:#e0e0e0;font-family:'Inter',sans-serif;min-height:100vh;overflow-x:hidden}
+.wrap{max-width:700px;margin:0 auto}
 .banner{position:relative;height:180px;background:#080808;overflow:hidden;display:flex;align-items:center;justify-content:center;flex-direction:column}
-.grid-lines{position:absolute;inset:0;pointer-events:none}
 .banner-text{position:relative;z-index:2;text-align:center}
 .banner-title{font-family:'JetBrains Mono',monospace;font-size:22px;font-weight:600;color:#fff;letter-spacing:-0.02em;animation:fadeSlideUp 0.8s ease forwards;opacity:0}
 .banner-sub{font-family:'JetBrains Mono',monospace;font-size:13px;color:#555;margin-top:6px;animation:fadeSlideUp 0.8s ease 0.2s forwards;opacity:0}
@@ -49,7 +56,8 @@
 .cursor{display:inline-block;width:2px;height:14px;background:#555;vertical-align:text-bottom;margin-left:1px;animation:blink 1s step-end infinite}
 @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
 </style>
-
+</head>
+<body>
 <div class="wrap">
   <div class="banner">
     <canvas id="grid" style="position:absolute;inset:0;width:100%;height:100%;opacity:0.4"></canvas>
@@ -66,9 +74,9 @@
 
   <div class="body">
     <div class="links-row">
-      <a class="lnk" href="mailto:pisethsambo763@gmail.com"><i class="ti ti-mail" style="font-size:11px;margin-right:4px" aria-hidden="true"></i>GMAIL</a>
-      <a class="lnk" href="https://github.com/chhengkhim"><i class="ti ti-brand-github" style="font-size:11px;margin-right:4px" aria-hidden="true"></i>GITHUB</a>
-      <a class="lnk" href="https://figma.com"><i class="ti ti-brand-figma" style="font-size:11px;margin-right:4px" aria-hidden="true"></i>FIGMA</a>
+      <a class="lnk" href="mailto:pisethsambo763@gmail.com"><i class="ti ti-mail" style="font-size:11px;margin-right:4px"></i>GMAIL</a>
+      <a class="lnk" href="https://github.com/chhengkhim"><i class="ti ti-brand-github" style="font-size:11px;margin-right:4px"></i>GITHUB</a>
+      <a class="lnk" href="https://figma.com"><i class="ti ti-brand-figma" style="font-size:11px;margin-right:4px"></i>FIGMA</a>
       <span class="lnk" style="cursor:default"><span class="dot live"></span>open to work</span>
     </div>
 
@@ -101,7 +109,7 @@
             <rect x="36" y="46" width="5" height="10" rx="1" fill="#181818" stroke="#2e2e2e" stroke-width="0.5"/>
             <line x1="35" y1="20" x2="35" y2="12" stroke="#2e2e2e" stroke-width="0.5"/>
             <circle cx="35" cy="11" r="2" fill="none" stroke="#2e2e2e" stroke-width="0.5"/>
-            <g id="astro-g" style="transform-origin:35px 35px">
+            <g id="astro-g">
               <circle cx="35" cy="5" r="1.5" fill="#333"/>
             </g>
           </svg>
@@ -153,52 +161,55 @@
 <script>
 const canvas = document.getElementById('grid');
 const ctx = canvas.getContext('2d');
-function drawGrid() {
-  canvas.width = canvas.offsetWidth;
-  canvas.height = canvas.offsetHeight;
+function drawGrid(){
+  canvas.width=canvas.offsetWidth;
+  canvas.height=canvas.offsetHeight;
   ctx.clearRect(0,0,canvas.width,canvas.height);
-  ctx.strokeStyle = 'rgba(255,255,255,0.04)';
-  ctx.lineWidth = 0.5;
-  const sz = 32;
+  ctx.strokeStyle='rgba(255,255,255,0.04)';
+  ctx.lineWidth=0.5;
+  const sz=32;
   for(let x=0;x<canvas.width;x+=sz){ctx.beginPath();ctx.moveTo(x,0);ctx.lineTo(x,canvas.height);ctx.stroke()}
   for(let y=0;y<canvas.height;y+=sz){ctx.beginPath();ctx.moveTo(0,y);ctx.lineTo(canvas.width,y);ctx.stroke()}
 }
 drawGrid();
+window.addEventListener('resize',drawGrid);
 
-const bars = document.getElementById('graph-bars');
-const heights = [8,15,6,22,12,30,18,10,25,40,20,35,15,28,12,45,30,18,22,38,16,28,10,42,20,34,15,25,8,20,35,28,15,40,22,30];
+const bars=document.getElementById('graph-bars');
+const heights=[8,15,6,22,12,30,18,10,25,40,20,35,15,28,12,45,30,18,22,38,16,28,10,42,20,34,15,25,8,20,35,28,15,40,22,30];
 heights.forEach((h,i)=>{
-  const b = document.createElement('div');
-  b.className = 'bar' + (i > 28 ? ' active' : '');
-  b.style.height = '0px';
-  b.style.transition = `height 0.5s ease ${i*0.015}s`;
+  const b=document.createElement('div');
+  b.className='bar'+(i>28?' active':'');
+  b.style.height='0px';
+  b.style.transition=`height 0.5s ease ${i*0.015}s`;
   bars.appendChild(b);
-  setTimeout(()=>{ b.style.height = h+'px'; }, 300);
+  setTimeout(()=>{b.style.height=h+'px';},300);
 });
 
-function animateNum(el, target, duration) {
-  const start = performance.now();
-  const update = (now) => {
-    const t = Math.min((now-start)/duration, 1);
-    const ease = 1-Math.pow(1-t,3);
-    el.textContent = Math.round(target*ease);
-    if(t<1) requestAnimationFrame(update);
+function animateNum(el,target,duration){
+  const start=performance.now();
+  const update=(now)=>{
+    const t=Math.min((now-start)/duration,1);
+    const ease=1-Math.pow(1-t,3);
+    el.textContent=Math.round(target*ease);
+    if(t<1)requestAnimationFrame(update);
   };
   requestAnimationFrame(update);
 }
 setTimeout(()=>{
-  animateNum(document.getElementById('sn1'), 247, 1400);
-  animateNum(document.getElementById('sn2'), 42, 1000);
-  animateNum(document.getElementById('sn3'), 18, 800);
-}, 500);
+  animateNum(document.getElementById('sn1'),247,1400);
+  animateNum(document.getElementById('sn2'),42,1000);
+  animateNum(document.getElementById('sn3'),18,800);
+},500);
 
-let angle = 0;
-const astroG = document.getElementById('astro-g');
+let angle=0;
+const astroG=document.getElementById('astro-g');
 (function orbit(){
-  angle += 0.008;
-  const x = 35 + Math.cos(angle)*28;
-  const y = 35 + Math.sin(angle)*18;
-  astroG.setAttribute('transform', `translate(${x-35},${y-35})`);
+  angle+=0.008;
+  const x=35+Math.cos(angle)*28;
+  const y=35+Math.sin(angle)*18;
+  astroG.setAttribute('transform',`translate(${x-35},${y-35})`);
   requestAnimationFrame(orbit);
 })();
 </script>
+</body>
+</html>
