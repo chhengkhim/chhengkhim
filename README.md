@@ -19,29 +19,6 @@
 
 </div>
 
----
-
-## `whoami`
-
-```ts
-const pisethsambo = {
-  name:     "Phok Pisethsambo",
-  role:     ["Full Stack Developer", "Mobile Developer", "UI/UX Designer"],
-  location: "Cambodia 🇰🇭",
-  stack: {
-    frontend: ["Vue.js", "React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend:  ["FastAPI", "Python", "Node.js"],
-    mobile:   ["Flutter", "Dart"],
-    database: ["PostgreSQL", "MySQL"],
-    design:   ["Figma", "WordPress"],
-    devops:   ["Docker", "Git", "Linux"],
-  },
-  currentFocus: "Building scalable apps with clean UI and strong backend",
-  available:    true,
-};
-```
-
----
 
 ## `stack`
 
