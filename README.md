@@ -75,8 +75,6 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=chhengkhim&theme=onestar&no-frame=true&row=1&column=7&margin-w=4" />
-
 </div>
 
 ---
