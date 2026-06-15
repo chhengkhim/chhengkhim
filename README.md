@@ -1,10 +1,10 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=soft&color=0:080808,100:111111&height=200&section=header&text=Welcome%20to%20Chheng%20Khim%27s%20Github&fontSize=24&fontColor=ffffff&fontAlignY=40&desc=%3C%20full%20stack%20%C2%B7%20mobile%20%C2%B7%20ui%2Fux%20%2F%3E&descSize=14&descFontColor=555555&descAlignY=62&animation=fadeIn)
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&background=08080800&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+Chheng+Khim's+Github;%3C+full+stack+%C2%B7+mobile+%C2%B7+ui%2Fux+%2F%3E" alt="banner" />
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/GMAIL-111111?style=flat-square&logo=gmail&logoColor=555555)](mailto:pisethsambo763@gmail.com)&ensp;[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=555555)](https://github.com/chhengkhim)&ensp;[![Figma](https://img.shields.io/badge/FIGMA-111111?style=flat-square&logo=figma&logoColor=555555)](https://figma.com)&ensp;![Open](https://img.shields.io/badge/%E2%97%8F%20open%20to%20work-111111?style=flat-square&logoColor=white)&ensp;![Views](https://komarev.com/ghpvc/?username=chhengkhim&style=flat-square&color=111111&label=VIEWS)
+[![Gmail](https://img.shields.io/badge/GMAIL-111111?style=flat-square&logo=gmail&logoColor=555555)](mailto:pisethsambo763@gmail.com)&ensp;[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=555555)](https://github.com/chhengkhim)&ensp;[![Figma](https://img.shields.io/badge/FIGMA-111111?style=flat-square&logo=figma&logoColor=555555)](https://figma.com)&ensp;![Open](https://img.shields.io/badge/%E2%97%8F%20open%20to%20work-111111?style=flat-square)&ensp;![Views](https://komarev.com/ghpvc/?username=chhengkhim&style=flat-square&color=111111&label=VIEWS)
 
 </div>
 
@@ -67,7 +67,5 @@ I love building clean, modern web and mobile experiences.
 ---
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:080808&height=80&section=footer&text=web+%C2%B7+mobile+%C2%B7+ui%2Fux+%C2%B7+open+to+work&fontColor=333333&fontSize=11&fontAlignY=65&animation=fadeIn)
-
+<sub>web · mobile · ui/ux · open to work</sub>
 </div>
