@@ -10,7 +10,7 @@
 
 ```
 
-### `< Full Stack Developer · Flutter · UI/UX · 🇰🇭 Phnom Penh, Cambodia />`
+### `< Full Stack Developer · Flutter · UI/UX />`
 
 <br/>
 
@@ -26,9 +26,7 @@
 
 ```javascript
 const chhengkhim = {
-  location  : "🇰🇭 Phnom Penh, Cambodia",
   role      : "Full Stack Developer",
-  studying  : "Computer Science",
   building  : ["web apps", "mobile experiences", "clean UIs"],
   tools     : ["Vue", "React", "Next.js", "Flutter", "FastAPI", "Docker"],
   designing : "Figma  →  prototype  →  pixel-perfect",
