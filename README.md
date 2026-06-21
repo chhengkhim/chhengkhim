@@ -10,7 +10,6 @@
 
 ```
 
-### `< Full Stack Developer · Flutter · UI/UX />`
 
 <br/>
 
@@ -78,11 +77,3 @@
 
 </div>
 
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."*
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chhengkhim.chhengkhim&color=7c3aed)
-
-</div>
