@@ -20,22 +20,6 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```javascript
-const chhengkhim = {
-  role      : "Full Stack Developer",
-  building  : ["web apps", "mobile experiences", "clean UIs"],
-  tools     : ["Vue", "React", "Next.js", "Flutter", "FastAPI", "Docker"],
-  designing : "Figma  →  prototype  →  pixel-perfect",
-  open_to   : "freelance  |  collaboration  |  interesting problems",
-  motto     : "ship it, then make it beautiful — ideally both at once"
-};
-```
-
----
 
 ## 🗂️ Tech Stack
 
@@ -72,16 +56,6 @@ const chhengkhim = {
 
 </div>
 
----
-
-## 🔥 What I'm Up To
-
-- 🎓 Grinding **Computer Science** fundamentals
-- 📱 Shipping **Flutter** apps — clean state, smooth UX
-- 🎨 Bridging the gap between **design and engineering**
-- 🌐 Open to **freelance** — web · mobile · UI/UX
-
----
 
 ## 📊 GitHub Stats
 
