@@ -56,24 +56,3 @@
 </div>
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chhengkhim&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=8b949e&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhengkhim&layout=compact&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=8b949e&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=chhengkhim&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=7c3aed&sideLabels=8b949e&dates=484f58&stroke=21262d&currStreakNum=e6edf3&sideNums=e6edf3" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chhengkhim&bg_color=0d1117&color=7c3aed&line=06b6d4&point=e6edf3&area=true&area_color=161b22&hide_border=true&custom_title=Contribution+Graph" />
-
-</div>
-
