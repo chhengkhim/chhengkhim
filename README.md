@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Pisethsambo&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cambodia-First%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=CHHENGKHIM&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer" width="100%"/>
 
 <br/>
 
@@ -12,42 +12,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhengkhim)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pisethsambo763@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=chhengkhim&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-
-## 🇰🇭 About Me
-
-<div align="center">
-<table>
-<tr>
-<td width="60%">
-
-Full-stack developer based in **Cambodia** 🇰🇭, building software at the intersection of **local and global markets** — Khmer language tech, Cambodian payment rails (ABA PayWay, Wing), and modern web architecture.
-
-- 🔭 Currently building **PropFind** — a role-based real estate marketplace
-- 🎙️ Exploring **SomlengAI** — a local-first Khmer Text-to-Speech engine
-- 🇰🇭 Passionate about **Khmer NLP** & Cambodia-first digital products
-- 🛠️ Primary stack: **Next.js (TS) + FastAPI + PostgreSQL**
-- 📍 Phnom Penh, Cambodia
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chhengkhim&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" width="100%"/>
-
-</td>
 </tr>
 </table>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-
-## 🗂️ Tech Stack
+ 🗂️ Tech Stack
 
 <div align="center">
 
