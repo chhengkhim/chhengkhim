@@ -59,8 +59,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chhengkhim&theme=dark&background=00000000&border=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="100%"/>
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chhengkhim&theme=github-compact&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff" width="100%"/>
