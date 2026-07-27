@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&lines=Next.js+%2B+FastAPI+%2B+PostgreSQL;Building+Khmer-First+Software;Real+Estate+%C2%B7+AI+Voice+%C2%B7+FinTech+for+Cambodia" alt="Typing SVG" />
-
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
