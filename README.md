@@ -49,15 +49,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chhengkhim&theme=github-compact&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff" width="100%"/>
-
-</div>
 
 <!--
 🐍 Animated contribution snake (optional, requires GitHub Action)
