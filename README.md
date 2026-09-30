@@ -2,43 +2,46 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=CHHENGKHIM&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pisethsambo-phok-854b95304/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhengkhim)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pisethsambo763@gmail.com)
-
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-</tr>
-</table>
-</div>
- 🗂️ Tech Stack
+
+## 🗂️ Tech Stack
 
 <div align="center">
 
-**Frontend**
+### Frontend
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Mobile**
+### Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
 
-**Backend**
+### Backend
 
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Database
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
+### Tools & Platforms
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
@@ -49,14 +52,15 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
-
 <!--
-🐍 Animated contribution snake (optional, requires GitHub Action)
-Add this workflow once, then it auto-generates on each push:
+🐍 Animated contribution snake (optional)
+
+Add this workflow:
 https://github.com/Platane/snk
+
+Then uncomment the image below:
 
 <img src="https://raw.githubusercontent.com/chhengkhim/chhengkhim/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-
